@@ -6,7 +6,7 @@ To report, use ["Issues" tab](https://github.com/xxvxs/Serotonin/issues).
 
 Get Serotonin on [Modrinth](https://modrinth.com/modpack/xxvsserotonin).
 
-# Concrete
+# Dopamine
 Lightweight modpack based on Serotonin
 
 Concrete on [Modrinth](https://modrinth.com/modpack/xxvsconcrete).  
