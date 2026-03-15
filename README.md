@@ -9,4 +9,4 @@ Get Serotonin on [Modrinth](https://modrinth.com/modpack/xxvsserotonin).
 # Dopamine
 Lightweight modpack based on Serotonin
 
-Concrete on [Modrinth](https://modrinth.com/modpack/xxvsconcrete).  
+Get Dopamine on [Modrinth](https://modrinth.com/modpack/xxvsconcrete).  
